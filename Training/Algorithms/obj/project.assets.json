@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyProjects\\Console\\Training\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "C:\\MyProjects\\Console\\Data-Structures-And-Algorithms-Csharp\\Training\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\MyProjects\\Console\\Training\\Algorithms\\Algorithms.csproj",
+      "projectPath": "C:\\MyProjects\\Console\\Data-Structures-And-Algorithms-Csharp\\Training\\Algorithms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\anjac\\.nuget\\packages\\",
-      "outputPath": "C:\\MyProjects\\Console\\Training\\Algorithms\\obj\\",
+      "outputPath": "C:\\MyProjects\\Console\\Data-Structures-And-Algorithms-Csharp\\Training\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

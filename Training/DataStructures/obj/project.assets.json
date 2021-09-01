@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyProjects\\Console\\Training\\DataStructures\\DataStructures.csproj",
+      "projectUniqueName": "C:\\MyProjects\\Console\\Data-Structures-And-Algorithms-Csharp\\Training\\DataStructures\\DataStructures.csproj",
       "projectName": "DataStructures",
-      "projectPath": "C:\\MyProjects\\Console\\Training\\DataStructures\\DataStructures.csproj",
+      "projectPath": "C:\\MyProjects\\Console\\Data-Structures-And-Algorithms-Csharp\\Training\\DataStructures\\DataStructures.csproj",
       "packagesPath": "C:\\Users\\anjac\\.nuget\\packages\\",
-      "outputPath": "C:\\MyProjects\\Console\\Training\\DataStructures\\obj\\",
+      "outputPath": "C:\\MyProjects\\Console\\Data-Structures-And-Algorithms-Csharp\\Training\\DataStructures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

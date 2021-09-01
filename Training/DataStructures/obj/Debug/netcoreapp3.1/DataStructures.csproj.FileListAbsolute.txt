@@ -9,3 +9,14 @@ C:\Users\anjac\RiderProjects\Training\DataStructures\obj\Debug\netcoreapp3.1\Dat
 C:\Users\anjac\RiderProjects\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
 C:\Users\anjac\RiderProjects\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
 C:\Users\anjac\RiderProjects\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.exe
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.json
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
