@@ -1,0 +1,14 @@
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.exe
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.deps.json
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.json
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.dev.json
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.dll
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.pdb
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.AssemblyReference.cache
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfoInputs.cache
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfo.cs
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.CoreCompileInputs.cache
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.genruntimeconfig.cache

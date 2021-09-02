@@ -15,8 +15,11 @@ C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructu
 C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
 C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
 C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
-C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache
 C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
 C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
 C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
 C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.AssemblyReference.cache
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\Training\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.genruntimeconfig.cache
