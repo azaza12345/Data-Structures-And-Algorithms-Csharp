@@ -6,7 +6,7 @@ namespace Algorithms.Codewars._5kyu
 {
     public class SumSquaredDivisors
     {
-        public static string listSquared(long m, long n)
+        public static string ListSquared(long m, long n)
         {
             var list = new List<string>();
             string result = "[";

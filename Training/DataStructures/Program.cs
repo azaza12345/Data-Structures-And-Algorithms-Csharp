@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using DataStructures.DoublyLinkedList;
 using DataStructures.Stack;
 using Training.DataStructure;
 
@@ -39,7 +40,7 @@ namespace DataStructures
             Console.WriteLine(item2);
             #endregion
 
-            #region LinkedStack
+            #region LinkedStackTest
 
             var linkedStack = new LinkedStack<int>();
             linkedStack.Push(5);
@@ -49,6 +50,30 @@ namespace DataStructures
             Console.WriteLine("Linked Stack");
             Console.WriteLine(linkedStack.Pop());
             Console.WriteLine(linkedStack.Peek());
+            #endregion
+
+            #region DoublyLinkedListTest
+
+            var doublyList = new DoublyLinkedList<int>();
+            doublyList.Add(1);
+            doublyList.Add(2);
+            doublyList.Add(3);
+            doublyList.Add(4);
+
+            foreach (var item in doublyList)
+            {
+                Console.WriteLine(item);
+            }
+            
+            Console.WriteLine();
+            var reverseList = doublyList.Reverse();
+            
+            foreach (var item in reverseList)
+            {
+                Console.WriteLine(item);
+            }
+            
+            
             #endregion
 
         }

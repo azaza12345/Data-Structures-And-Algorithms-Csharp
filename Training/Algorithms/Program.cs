@@ -7,7 +7,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(SumSquaredDivisors.listSquared(42,250));
+            Console.WriteLine(SumSquaredDivisors.ListSquared(42,250));
         }
     }
 }
