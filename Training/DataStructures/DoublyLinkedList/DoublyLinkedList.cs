@@ -18,10 +18,7 @@ namespace DataStructures.DoublyLinkedList
 
         public DoublyLinkedList(T data)
         {
-            var item = new DoublyItem<T>(data);
-            Head = item;
-            Tail = item;
-            Count++;
+            SetHeadAndTail(data);
         }
 
         public void Add(T data)
@@ -36,9 +33,7 @@ namespace DataStructures.DoublyLinkedList
             }
             else
             {
-                Head = item;
-                Tail = item;
-                Count++;
+                SetHeadAndTail(data);
             }
         }
 
@@ -88,6 +83,14 @@ namespace DataStructures.DoublyLinkedList
                 yield return item.Data;
                 item = item.Next;
             }
+        }
+
+        private void SetHeadAndTail(T data)
+        {
+            var item = new DoublyItem<T>(data);
+            Head = item;
+            Tail = item;
+            Count++;
         }
     }
 }

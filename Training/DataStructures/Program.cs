@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 using DataStructures.DoublyLinkedList;
+using DataStructures.EasyQueue;
+using DataStructures.Set;
 using DataStructures.Stack;
-using Training.DataStructure;
 
 namespace DataStructures
 {
@@ -10,8 +12,31 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
+            #region EasySet
+
+            EasySet<int> set = new EasySet<int>();
+            set.Add(1);
+            set.Add(2);
+            set.Add(3);
+            set.Add(4);
+            set.Add(5);
+            
+            EasySet<int> setTrue = new EasySet<int>();
+            setTrue.Add(1);
+            setTrue.Add(2);
+            setTrue.Add(5);
+            
+            EasySet<int> setFalse = new EasySet<int>();
+            setTrue.Add(1);
+            setTrue.Add(2);
+            setTrue.Add(7);
+            
+            Console.Write(set.Subset(setTrue) + " ");
+            Console.Write(set.Subset(setFalse) + " ");
+
+            #endregion
             #region LinkedListTest
-            LinkedList<int> intList = new LinkedList<int>();
+            Training.DataStructure.LinkedList<int> intList = new Training.DataStructure.LinkedList<int>();
             intList.Add(1);
             intList.Add(2);
             intList.Add(3);
@@ -74,6 +99,18 @@ namespace DataStructures
             }
             
             
+            #endregion
+
+            #region EasyQueue
+
+            Console.WriteLine("Easy Queue");
+            var easyQueue = new EasyQueue<int>();
+            easyQueue.Enqueue(1);
+            easyQueue.Enqueue(2);
+            easyQueue.Enqueue(3);
+            
+            Console.WriteLine(easyQueue.Dequeue());
+            Console.WriteLine(easyQueue.Peek());
             #endregion
 
         }
