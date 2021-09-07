@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace Algorithms.Tasks
 {
-    public class RLE : ValueType
+    public class RLE
     {
         public static string Solution(string str)
         {

@@ -12,9 +12,7 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
-            Hashtable table = new Hashtable();
-            table.Add("lol", 5);
-            table.Add(3, 10);
+            List<int> lol;
         }
     }
 }
