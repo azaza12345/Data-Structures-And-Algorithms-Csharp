@@ -1,5 +1,5 @@
 ﻿using System;
-using Algorithms.Codewars._5kyu;
+using Algorithms.Tasks;
 
 namespace Algorithms
 {
@@ -7,7 +7,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(SumSquaredDivisors.ListSquared(42,250));
+            
         }
     }
 }
