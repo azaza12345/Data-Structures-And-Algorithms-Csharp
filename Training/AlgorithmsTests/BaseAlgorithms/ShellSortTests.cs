@@ -7,13 +7,13 @@ using System.Text;
 namespace Algorithms.BaseAlgorithms.Tests
 {
     [TestClass()]
-    public class CoctailSortTests : SortTestBase
+    public class ShellSortTests : SortTestBase
     {
         [TestMethod()]
         public void SortTest()
         {
-            var coctail = new CoctailSort<int>();
-            Init(coctail, 1000);
+            var shell = new ShellSort<int>();
+            Init(shell, 1000);
         }
     }
 }

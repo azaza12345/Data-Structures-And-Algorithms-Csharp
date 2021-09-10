@@ -7,28 +7,29 @@ using System.Text;
 namespace Algorithms.BaseAlgorithms.Tests
 {
     [TestClass()]
-    public class InsertionSortTests
+    public class InsertionSortTests : SortTestBase
     {
         [TestMethod()]
         public void SortTest()
         {
             var insertion = new InsertionSort<int>();
-            var rnd = new Random();
-            var items = new List<int>();
+            Init(insertion, 1000);
+            //var rnd = new Random();
+            //var items = new List<int>();
 
-            for(int i = 0; i < 100; i++)
-            {
-                items.Add(rnd.Next(0, 100));
-            }
+            //for (int i = 0; i < 100; i++)
+            //{
+            //    items.Add(rnd.Next(0, 100));
+            //}
 
-            insertion.Items.AddRange(items);
-            insertion.Sort();
-            items.Sort();
+            //insertion.Items.AddRange(items);
+            //insertion.Sort();
+            //items.Sort();
 
-            for (int i = 0; i < items.Count; i++)
-            {
-                Assert.AreEqual(insertion.Items[i], items[i]);
-            }
+            //for (int i = 0; i < items.Count; i++)
+            //{
+            //    Assert.AreEqual(insertion.Items[i], items[i]);
+            //}
         }
     }
 }
