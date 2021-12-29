@@ -1,0 +1,15 @@
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\bin\Debug\net6.0\LeetCodePatterns.exe
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\bin\Debug\net6.0\LeetCodePatterns.deps.json
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\bin\Debug\net6.0\LeetCodePatterns.runtimeconfig.json
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\bin\Debug\net6.0\LeetCodePatterns.dll
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\bin\Debug\net6.0\ref\LeetCodePatterns.dll
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\bin\Debug\net6.0\LeetCodePatterns.pdb
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\obj\Debug\net6.0\LeetCodePatterns.csproj.AssemblyReference.cache
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\obj\Debug\net6.0\LeetCodePatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\obj\Debug\net6.0\LeetCodePatterns.AssemblyInfoInputs.cache
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\obj\Debug\net6.0\LeetCodePatterns.AssemblyInfo.cs
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\obj\Debug\net6.0\LeetCodePatterns.csproj.CoreCompileInputs.cache
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\obj\Debug\net6.0\LeetCodePatterns.dll
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\obj\Debug\net6.0\ref\LeetCodePatterns.dll
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\obj\Debug\net6.0\LeetCodePatterns.pdb
+C:\MyProjects\Console\Data-Structures-And-Algorithms-Csharp\LeetCodePatterns\obj\Debug\net6.0\LeetCodePatterns.genruntimeconfig.cache
