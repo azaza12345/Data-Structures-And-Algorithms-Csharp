@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69921b8e-4c0f-4bf7-bbce-af74df66ee7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCodePatterns/ContainsDuplicate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodePatterns/MissingNumber.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Training/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodePatterns/ContainsDuplicate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodePatterns/ContainsDuplicate.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +189,7 @@
       <workItem from="1631291359782" duration="12850000" />
       <workItem from="1631552543752" duration="1117000" />
       <workItem from="1631872391696" duration="2706000" />
-      <workItem from="1640763065359" duration="1720000" />
+      <workItem from="1640763065359" duration="4355000" />
     </task>
     <task id="LOCAL-00001" summary="Add stack data structure">
       <created>1630511596441</created>

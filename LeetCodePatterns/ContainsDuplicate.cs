@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.IO;
 
 namespace LeetCodePatterns
 {
@@ -6,9 +7,17 @@ namespace LeetCodePatterns
     {
         public bool Solution(int[] nums)
         {
-            HashSet<int> hashSet = new HashSet<int>(nums);
+            var hashSet = new HashSet<int>();
+            
+            foreach (var num in nums)
+            {
+                if (hashSet.Contains(num))
+                    return true;
+                hashSet.Add(num);
+            }
 
-            return hashSet.Count != nums.Length;
+
+            return false;
         }
     }
 }
