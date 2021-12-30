@@ -8,9 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69921b8e-4c0f-4bf7-bbce-af74df66ee7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCodePatterns/MissingNumber.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodePatterns/DisappearedNumbers.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Training/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodePatterns/ContainsDuplicate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodePatterns/ContainsDuplicate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodePatterns/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodePatterns/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodePatterns/bin/Debug/net6.0/LeetCodePatterns.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodePatterns/bin/Debug/net6.0/LeetCodePatterns.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodePatterns/bin/Debug/net6.0/LeetCodePatterns.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodePatterns/bin/Debug/net6.0/LeetCodePatterns.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodePatterns/bin/Debug/net6.0/ref/LeetCodePatterns.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodePatterns/bin/Debug/net6.0/ref/LeetCodePatterns.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodePatterns/obj/Debug/net6.0/LeetCodePatterns.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodePatterns/obj/Debug/net6.0/LeetCodePatterns.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodePatterns/obj/Debug/net6.0/LeetCodePatterns.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodePatterns/obj/Debug/net6.0/LeetCodePatterns.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodePatterns/obj/Debug/net6.0/LeetCodePatterns.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodePatterns/obj/Debug/net6.0/LeetCodePatterns.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodePatterns/obj/Debug/net6.0/ref/LeetCodePatterns.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodePatterns/obj/Debug/net6.0/ref/LeetCodePatterns.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +94,6 @@
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="GitIgnore" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -189,7 +196,8 @@
       <workItem from="1631291359782" duration="12850000" />
       <workItem from="1631552543752" duration="1117000" />
       <workItem from="1631872391696" duration="2706000" />
-      <workItem from="1640763065359" duration="4355000" />
+      <workItem from="1640763065359" duration="4865000" />
+      <workItem from="1640880991773" duration="1024000" />
     </task>
     <task id="LOCAL-00001" summary="Add stack data structure">
       <created>1630511596441</created>
